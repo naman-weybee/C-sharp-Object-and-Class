@@ -1,0 +1,7 @@
+D:\.NET\Object and Class\Object_and_Class\Object_and_Class\bin\Debug\Object_and_Class.exe.config
+D:\.NET\Object and Class\Object_and_Class\Object_and_Class\bin\Debug\Object_and_Class.exe
+D:\.NET\Object and Class\Object_and_Class\Object_and_Class\bin\Debug\Object_and_Class.pdb
+D:\.NET\Object and Class\Object_and_Class\Object_and_Class\obj\Debug\Object_and_Class.csproj.AssemblyReference.cache
+D:\.NET\Object and Class\Object_and_Class\Object_and_Class\obj\Debug\Object_and_Class.csproj.CoreCompileInputs.cache
+D:\.NET\Object and Class\Object_and_Class\Object_and_Class\obj\Debug\Object_and_Class.exe
+D:\.NET\Object and Class\Object_and_Class\Object_and_Class\obj\Debug\Object_and_Class.pdb

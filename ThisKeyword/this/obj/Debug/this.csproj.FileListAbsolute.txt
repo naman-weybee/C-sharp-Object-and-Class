@@ -1,0 +1,7 @@
+D:\.NET\Object and Class\this\this\bin\Debug\@this.exe.config
+D:\.NET\Object and Class\this\this\bin\Debug\@this.exe
+D:\.NET\Object and Class\this\this\bin\Debug\@this.pdb
+D:\.NET\Object and Class\this\this\obj\Debug\this.csproj.CoreCompileInputs.cache
+D:\.NET\Object and Class\this\this\obj\Debug\@this.exe
+D:\.NET\Object and Class\this\this\obj\Debug\@this.pdb
+D:\.NET\Object and Class\this\this\obj\Debug\this.csproj.AssemblyReference.cache

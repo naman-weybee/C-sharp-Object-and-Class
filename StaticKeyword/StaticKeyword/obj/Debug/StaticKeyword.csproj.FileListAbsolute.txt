@@ -1,0 +1,7 @@
+D:\.NET\Object and Class\StaticKeyword\StaticKeyword\bin\Debug\StaticKeyword.exe.config
+D:\.NET\Object and Class\StaticKeyword\StaticKeyword\bin\Debug\StaticKeyword.exe
+D:\.NET\Object and Class\StaticKeyword\StaticKeyword\bin\Debug\StaticKeyword.pdb
+D:\.NET\Object and Class\StaticKeyword\StaticKeyword\obj\Debug\StaticKeyword.csproj.AssemblyReference.cache
+D:\.NET\Object and Class\StaticKeyword\StaticKeyword\obj\Debug\StaticKeyword.csproj.CoreCompileInputs.cache
+D:\.NET\Object and Class\StaticKeyword\StaticKeyword\obj\Debug\StaticKeyword.exe
+D:\.NET\Object and Class\StaticKeyword\StaticKeyword\obj\Debug\StaticKeyword.pdb
